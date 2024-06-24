@@ -9,7 +9,6 @@ Além disso, o projeto promove o engajamento comunitário, incentivando os morad
 Gabriel espera que este projeto inspire outras pessoas a se envolverem com a sustentabilidade e a cuidarem do meio ambiente. Convidamos você a conhecer mais sobre o projeto e a se juntar a esta iniciativa verde.
 Visite a página web para ver fotos, ler sobre o progresso e descobrir como você pode contribuir.
 Este projeto contou com o apoio de professores e da comunidade escolar, além de cursos online que forneceram as habilidades necessárias para a criação da página web. Agradecemos a todos que contribuíram para o sucesso desta iniciativa.
-Para mais informações ou para se envolver com o projeto, visite a página do Gabriel no Facebook e acompanhe as atualizações.
 Vamos juntos transformar nossa cidade em um lugar mais verde e acolhedor. Obrigado por seu interesse e apoio!
 https://marielm416.github.io/Agrinho-2024-Gabriel/
 ## Tópicos
