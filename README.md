@@ -1,4 +1,4 @@
-Descrição do Projeto de Arborização Urbana. 
+## About
 Bem-vindo ao Projeto de Arborização Urbana desenvolvido por Gabriel, um dedicado estudante do 3º ano do ensino médio.
 Este projeto nasceu da paixão pela natureza e pela sustentabilidade, com o objetivo de transformar espaços públicos urbanos em áreas verdes produtivas e agradáveis.
 O projeto visa plantar árvores frutíferas em espaços públicos, promovendo a sustentabilidade e o bem-estar da comunidade. A ideia é não apenas embelezar a cidade, mas também proporcionar uma fonte de frutas frescas e nutritivas para os moradores.
@@ -11,6 +11,7 @@ Visite a página web para ver fotos, ler sobre o progresso e descobrir como voc�
 Este projeto contou com o apoio de professores e da comunidade escolar, além de cursos online que forneceram as habilidades necessárias para a criação da página web. Agradecemos a todos que contribuíram para o sucesso desta iniciativa.
 Para mais informações ou para se envolver com o projeto, visite a página do Gabriel no Facebook e acompanhe as atualizações.
 Vamos juntos transformar nossa cidade em um lugar mais verde e acolhedor. Obrigado por seu interesse e apoio!
+https://marielm416.github.io/Agrinho-2024-Gabriel/
 ## Tópicos
 Este projeto está associado aos seguintes tópicos:
 - arborização
