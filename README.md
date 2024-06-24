@@ -1,4 +1,4 @@
-Descrição do Projeto de Arborização Urbana
+Descrição do Projeto de Arborização Urbana. 
 Bem-vindo ao Projeto de Arborização Urbana desenvolvido por Gabriel, um dedicado estudante do 3º ano do ensino médio.
 Este projeto nasceu da paixão pela natureza e pela sustentabilidade, com o objetivo de transformar espaços públicos urbanos em áreas verdes produtivas e agradáveis.
 O projeto visa plantar árvores frutíferas em espaços públicos, promovendo a sustentabilidade e o bem-estar da comunidade. A ideia é não apenas embelezar a cidade, mas também proporcionar uma fonte de frutas frescas e nutritivas para os moradores.
