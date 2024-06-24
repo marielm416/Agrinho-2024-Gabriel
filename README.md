@@ -11,3 +11,9 @@ Visite a página web para ver fotos, ler sobre o progresso e descobrir como voc�
 Este projeto contou com o apoio de professores e da comunidade escolar, além de cursos online que forneceram as habilidades necessárias para a criação da página web. Agradecemos a todos que contribuíram para o sucesso desta iniciativa.
 Para mais informações ou para se envolver com o projeto, visite a página do Gabriel no Facebook e acompanhe as atualizações.
 Vamos juntos transformar nossa cidade em um lugar mais verde e acolhedor. Obrigado por seu interesse e apoio!
+## Tópicos
+Este projeto está associado aos seguintes tópicos:
+- arborização
+- sustentabilidade
+- frutíferas
+- agrinho
